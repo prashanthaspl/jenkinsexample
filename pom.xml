@@ -5,7 +5,7 @@
   <artifactId>dsm</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>oraclesampleapp Maven Webapp</name>
+  <name>esampleapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
